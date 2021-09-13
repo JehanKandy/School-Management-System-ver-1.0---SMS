@@ -15,9 +15,11 @@ how to import the database
 3.type - localhost
 4.now you are in --- localhost/dashboard----
 5. click "phpMyAdmin"
-6.in menu bar - click Import
-7.Choose File - give the school_test.sql
-8.go down and click GO
+6.Create a database clicking database tag in menu bar
+7.database name ----> School_test
+8.in menu bar - click Import
+9.Choose File - give the school_test.sql
+10.go down and click GO
 
 +_______________________________________________________+
 
